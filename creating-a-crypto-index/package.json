@@ -1,11 +1,7 @@
 {
-  "name": "medium-creating-a-crypto-index",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "creating-a-crypto-index",
+  "version": "0.0.0",
+  "description": "An exporation of creating my own crypto indices.",
   "author": "Kaden Griffith <kadengriffith@gmail.com>",
   "license": "MIT",
   "devDependencies": {
